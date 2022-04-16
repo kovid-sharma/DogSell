@@ -7,3 +7,9 @@ h3{
 p{
 font-family: 'Roboto', cursive;
 }
+.fa-inverse{
+  color: green;
+}
+#redheart{
+  color: red;
+}
